@@ -41,7 +41,7 @@
             <div class="col-11 mx-auto">
                 <div class="row my-4">
                     <p class="text-title">
-                        Наборы:
+                        Набsоры:
                     </p>
                 </div>
                 <div class="row">
